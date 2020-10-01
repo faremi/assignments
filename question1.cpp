@@ -27,15 +27,15 @@ int main()
     //Assigning parameters to the declared varaible
     fullname = "Faremi Saheed";
     age = 18;
-    department = "B.sc Information Technology";
+    department = "B.sc Information Tech";
     studentid = 202003491;
     cellnumber = 76675550;
 
     //Printing the values
 
-    cout << "Name: " << fullname <<endl;
+    cout << "Full Name: " << fullname <<endl;
     cout << "Age: " << age <<endl;
-    cout << "Department: "<<department <<endl;
+    cout << "Department Name: "<<department <<endl;
     cout << "Student Number: "<< studentid <<endl;
     cout << "Cell Number: " << cellnumber <<endl;
 
